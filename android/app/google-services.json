@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699252913664",
+    "project_id": "proyecto-recetas-920af",
+    "storage_bucket": "proyecto-recetas-920af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699252913664:android:a8e4f2e4d0d74ce6588ae5",
+        "android_client_info": {
+          "package_name": "com.example.proyecto_dam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699252913664-49ds8dji5bcsn3t1a216kkidb7t0rii2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXLtZ_Bfiyw2j3pSZBbVs4tZF_GfbqUO8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699252913664-49ds8dji5bcsn3t1a216kkidb7t0rii2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
